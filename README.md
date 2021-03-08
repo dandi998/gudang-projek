@@ -1,0 +1,2 @@
+# gudang-projek
+repository pertama
